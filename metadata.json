@@ -1,0 +1,6 @@
+{
+  "name": "Verificação de Segurança - Redirecionamento",
+  "description": "Presell rápida com verificação de segurança antibot e redirecionamento automático personalizável.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
